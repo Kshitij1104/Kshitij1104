@@ -3,7 +3,7 @@
 # Hi, I'm Kshitij Bobade 👋
 ### Data Analyst | SQL · Python · Power BI · Tableau
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-kshitijportfolio.lovable.app-0A66C2?style=for-the-badge&logo=Google-Chrome&logoColor=white)](https://kshitijportfolio.lovable.app)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kshitij-bobade-48718a262)
 [![Email](https://img.shields.io/badge/Email-bobadekshitij6@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bobadekshitij6@gmail.com)
 
