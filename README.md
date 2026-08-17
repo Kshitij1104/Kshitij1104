@@ -51,7 +51,7 @@ I turn raw, messy data into clear business insights using Python, SQL, Power BI,
 
 ## 📂 Featured Projects
 
-###🚀 Production AI Knowledge Assistant
+### 🚀 Production AI Knowledge Assistant
 
 > End-to-end AI assistant engineered with 145+ project files and 20+ modular components, combining RAG, LLMs, LangGraph, MCP, FAISS, SQL, and conversational memory into a unified intelligent assistant.
 
