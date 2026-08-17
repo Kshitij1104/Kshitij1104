@@ -51,6 +51,25 @@ I turn raw, messy data into clear business insights using Python, SQL, Power BI,
 
 ## 📂 Featured Projects
 
+###🚀 Production AI Knowledge Assistant
+
+> End-to-end AI assistant engineered with 145+ project files and 20+ modular components, combining RAG, LLMs, LangGraph, MCP, FAISS, SQL, and conversational memory into a unified intelligent assistant.
+
+> 3+ AI workflows — RAG-based Q&A, intelligent tool calling, and database interaction
+> 3+ MCP tools — Calculator, Weather & SQL with intelligent query routing
+> RAG pipeline — document ingestion → chunking → embeddings → FAISS retrieval → grounded generation
+> LangGraph orchestration — query routing, retrieval, generation, and response finalization
+> Multi-source knowledge — combines unstructured documents with structured SQL data and external tools
+> Context-aware conversations — memory windows, conversation history, and summarization for multi-turn interactions
+> 15+ automated test modules covering RAG, Graph, MCP, memory, ingestion, tools, and backend
+> Interactive Streamlit UI with document upload, chat, tool integration, and source citations
+> Production-oriented modular architecture separating LLMs, RAG, MCP, memory, services, tools, APIs, and data processing
+
+**Stack:** Python · LLMs · RAG · LangChain · LangGraph · MCP · FAISS · Embeddings · SQL · Streamlit · Git/GitHub
+**Highlights:** Designed as a multi-capability AI agent rather than a simple chatbot, dynamically routing each user query to the most appropriate knowledge source or tool before generating the final response.
+
+---
+
 ### 🛒 [E-Commerce Sales Analytics Pipeline](https://github.com/Kshitij1104/ecommerce-sales-analytics)
 > Automated ETL pipeline + Power BI dashboard processing 500K+ transaction records
 
