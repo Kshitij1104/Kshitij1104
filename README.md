@@ -33,7 +33,7 @@ Alongside my professional experience, I build **Generative AI and LLM-powered ap
 - 🔧 Model Context Protocol (MCP) & Tool Calling
 - 🗄️ Vector Databases, Embeddings & Semantic Retrieval
 - 🐍 Python, SQL & Data Engineering
-- 📊 Machine Learning & Data Analytics
+- 📊 Machine Learning
 
 ### 💼 Open To
 
