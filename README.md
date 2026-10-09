@@ -2,7 +2,7 @@
 
 # Hi, I'm Kshitij Bobade 👋
 
-### AI/ML Engineer | Generative AI | LLMs | RAG | Python | SQL
+### AI Engineer | Generative AI | LLMs | RAG | Python | SQL
 
 <p>
   <a href="https://linkedin.com/in/kshitij-bobade-48718a262">
@@ -19,25 +19,25 @@
 
 ## 👨‍💻 About Me
 
-I'm an **AI/ML Engineer** based in Pune, India, with 1.5+ years of professional experience working with **Python, SQL, data engineering, machine learning, and AI/ML-driven systems**.
+I'm an **AI Engineer** based in Pune, India, with 2 years of experience building and supporting production **Python and SQL** systems for AI-enabled railway monitoring, serving internal teams and clients.
 
-Currently working at **Novius Technologies India Pvt. Ltd.**, where I develop Python-based data pipelines, work with MSSQL databases, perform data preprocessing and EDA, and support AI/ML-driven railway condition monitoring systems.
+At **Novius Technologies India Pvt. Ltd.**, I build ETL pipelines and server-hosted dashboards, optimize MSSQL queries, deploy to production servers, and handle bug triage and client support calls.
 
-Alongside my professional experience, I build **Generative AI and LLM-powered applications** using **RAG, LangChain, LangGraph, MCP, FAISS, embeddings, prompt engineering, tool calling, conversational memory, SQL, and Streamlit**.
+Outside work, I build and deploy **Generative AI and LLM applications** using **RAG, LangChain, LangGraph, MCP, FAISS, embeddings, tool calling, conversational memory, Docker, and Streamlit**, with automated test suites.
 
 ### 🎯 Current Focus
 
 - 🤖 Generative AI & Large Language Models (LLMs)
 - 🔎 Retrieval-Augmented Generation (RAG)
-- 🧠 LangChain & LangGraph
+- 🧠 LangChain & LangGraph agent workflows
 - 🔧 Model Context Protocol (MCP) & Tool Calling
 - 🗄️ Vector Databases, Embeddings & Semantic Retrieval
+- 🚀 Deploying AI applications (Docker, Render)
 - 🐍 Python, SQL & Data Engineering
-- 📊 Machine Learning
 
 ### 💼 Open To
 
-**AI/ML Engineer · Generative AI Engineer · GenAI Developer · LLM Engineer · Machine Learning Engineer · AI Engineer**
+**AI Engineer · AI/ML Engineer · Generative AI Engineer · LLM Application Developer · Machine Learning Engineer**
 
 ---
 
@@ -53,6 +53,7 @@ Alongside my professional experience, I build **Generative AI and LLM-powered ap
 ![MCP](https://img.shields.io/badge/MCP-000000?style=flat-square)
 ![OpenAI API](https://img.shields.io/badge/OpenAI_API-000000?style=flat-square)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-000000?style=flat-square)
+![LoRA Fine-tuning](https://img.shields.io/badge/LoRA_Fine--tuning-000000?style=flat-square)
 
 ### 🧠 AI / Machine Learning
 
@@ -85,16 +86,40 @@ Alongside my professional experience, I build **Generative AI and LLM-powered ap
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-000000?style=flat-square)
 ![Seaborn](https://img.shields.io/badge/Seaborn-000000?style=flat-square)
 
-### 🛠️ Tools & Engineering
+### 🛠️ Deployment & Engineering
 
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Render](https://img.shields.io/badge/Render-000000?style=flat-square&logo=render&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 ---
 
 ## 🚀 Featured Projects
+
+### 🌐 WebFix AI: Autonomous AI Website Auditor
+
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Kshitij1104/WebFix_AI)
+<!-- Add your live demo badge here once you have the Render URL:
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Render-46E3B7?style=flat-square&logo=render&logoColor=white)](YOUR_RENDER_URL) -->
+
+> Autonomous AI website auditor using LangGraph, MCP, RAG, Playwright and a fine-tuned Qwen model for SEO, performance, interaction and structural analysis. Dockerized and deployed on Render.
+
+**Highlights**
+
+- 🔗 **1,987 URLs** discovered and analyzed across crawl, SEO, performance, link and interaction checks
+- 🧠 **LangGraph + MCP + RAG/FAISS + fine-tuned Qwen (LoRA) + Playwright** for bounded autonomous investigation
+- 💰 **Audit cost control:** 10-page crawl and 5-page deep audit, capping deep browser analysis at 50% of the crawl budget
+- ⚙️ **Sync/async fix:** Playwright wrapped in MCP with per-session single-worker executors, with no rewrite of the browser layer
+- 🧪 **10 automated test modules** covering agent decisions, MCP, RAG, model output and browser actions
+- ✅ **Production check:** 5/5 deep-audit pages completed with 0 page-level failures
+
+**Stack:** Python · LangGraph · LangChain · MCP · Playwright · RAG · FAISS · Qwen · LoRA · Streamlit · Docker · Render
+
+---
 
 ### 🤖 Production AI Knowledge Assistant
 
@@ -107,7 +132,7 @@ Alongside my professional experience, I build **Generative AI and LLM-powered ap
 - 📁 **145+ project files**
 - 🧩 **20+ modular components**
 - 🔄 **3+ AI workflows**
-- 🔧 **3+ MCP tools**
+- 🔧 **3+ MCP tools** (Calculator, Weather, SQL)
 - 📚 **500+ document chunks**
 - 🧠 **5-node LangGraph workflow**
 - 🧪 **15+ automated test modules**
@@ -116,7 +141,7 @@ Alongside my professional experience, I build **Generative AI and LLM-powered ap
 
 **Capabilities**
 
-- Retrieval-Augmented Generation (RAG)
+- Retrieval-Augmented Generation (RAG) with source citations
 - Document ingestion and chunking
 - Embeddings and FAISS vector retrieval
 - LLM-powered grounded responses
@@ -169,15 +194,15 @@ Alongside my professional experience, I build **Generative AI and LLM-powered ap
 
 **Feb 2025 – Present | Pune, India**
 
-Working on AI/ML and machine-vision-based railway condition monitoring systems.
+Building data and AI-enabled systems for machine-vision-based railway condition monitoring.
 
-- Developed Python-based ETL and data preprocessing pipelines using **Pandas and NumPy**
-- Processed **10,000+ records/day**
+- Develop and maintain Python **ETL pipelines (Pandas, NumPy)** and server-hosted analysis dashboards processing **10,000+ inspection records/day**, used by internal teams and clients
 - Reduced manual data-preparation effort by approximately **30%**
-- Worked with **MSSQL** databases containing sensor logs and inspection outputs
-- Automated Python-based reporting workflows, reducing manual reporting effort by approximately **40%**
-- Performed **EDA, data cleaning, transformation, and visualization**
-- Supported AI/ML-driven railway inspection technologies including **MVIS, WILD, WPMS, HABD, and HAHW**
+- Deploy pipelines and dashboards to production servers, hand over to the DevOps team for maintenance, report and triage bugs, and join client support calls
+- Write and optimize **SQL queries on MSSQL** databases (sensor logs, inspection outputs, compliance records), improving performance by approximately **20%**
+- Built Python and Excel reporting automation, reducing manual reporting effort by approximately **40%**
+- Perform **EDA, data cleaning, transformation, and visualization** to deliver model-ready datasets
+- Support AI/ML-driven railway inspection technologies including **MVIS, WILD, WPMS, HABD, and HAHW**
 
 ---
 
@@ -185,6 +210,7 @@ Working on AI/ML and machine-vision-based railway condition monitoring systems.
 
 | Certification | Issuer |
 |---|---|
+| Oracle Agentic AI Foundations Associate | Oracle |
 | Google AI-ML Virtual Internship | Google |
 | AWS Academy Cloud Foundations | Amazon Web Services |
 | Alteryx Designer Core Certification | Alteryx |
@@ -219,7 +245,7 @@ Big Data Analytics · Applied Machine Learning · Database Management · Data Vi
 
 I'm actively exploring opportunities in:
 
-**AI/ML Engineering · Generative AI · LLM Applications · RAG · Machine Learning · AI Engineering**
+**AI Engineering · Generative AI · LLM Applications · RAG · Machine Learning**
 
 <div align="center">
 
