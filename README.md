@@ -157,36 +157,6 @@ Outside work, I build and deploy **Generative AI and LLM applications** using **
 
 ---
 
-### 🧠 Customer Churn Prediction
-
-> Machine Learning classification system developed to predict customer churn using a telecom dataset.
-
-**Highlights**
-
-- 📊 **7,000+ rows**
-- 🎯 **~85% accuracy**
-- 📈 **0.84 ROC-AUC**
-- 🔍 **15+ features**
-- 📉 **~12% recall improvement** over baseline
-
-**Stack:** Python · Pandas · NumPy · Scikit-learn · Logistic Regression · Random Forest · Feature Engineering · EDA
-
----
-
-### 📊 Blinkit Sales Analytics Dashboard
-
-> End-to-end Python and SQL analytics pipeline connected to Power BI for retail sales analysis.
-
-**Highlights**
-
-- 📦 **1,000+ SKUs**
-- 🏪 **10+ outlets**
-- 📋 **8,000+ rows**
-- ⚡ **~50% reduction in manual reporting effort**
-
-**Stack:** Python · SQL · Pandas · ETL · Data Cleaning · Data Transformation · Power BI · Data Visualization
-
----
 
 ## 💼 Professional Experience
 
